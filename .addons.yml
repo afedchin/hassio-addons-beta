@@ -1,0 +1,7 @@
+---
+channel: beta
+addons:
+  tvheadend:
+    repository: afedchin/addon-tvheadend
+    target: tvheadend
+    image: ghcr.io/afedchin/tvheadend/{arch}
