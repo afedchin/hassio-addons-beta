@@ -1,3 +1,1 @@
-## What’s changed
-
-* No changes
+**Full Changelog**: https://github.com/afedchin/addon-tvheadend/compare/v2.4.6...v2.4.8
